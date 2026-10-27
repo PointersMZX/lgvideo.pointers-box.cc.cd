@@ -45,13 +45,13 @@ export const siteConfig: SiteConfig = {
 	title: "LG Video",
 
 	// 站点副标题
-	subtitle: "甘露影视官方网站",
+	subtitle: "LG Video官方网站",
 
 	// 站点 URL
 	site_url: "https://lgvideo.pointers-box.cc.cd",
 
 	// 站点描述
-	description: "独立开发者极星Pointers的影视播放器",
+	description: "Pointers开发的影视软件",
 
 	// 站点关键词
 	keywords: ["Pointers"],

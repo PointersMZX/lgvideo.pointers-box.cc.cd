@@ -18,8 +18,8 @@
 
 ## 下载与支持
 
-- **下载甘露影视**：站点顶部导航栏「下载」入口（GitHub / Gitee / 蓝奏云）
-- **问题反馈**：遇到问题请截图并反馈至作者本人（附上具体操作步骤），也可前往 [GitHub 仓库](https://github.com/PointersMZX/LGVideo/issues) 提交反馈
+- **下载甘露影视**：站点顶部导航栏「下载」入口（官网直装 / GitHub / Gitee / 蓝奏云）
+- **社区交流 / 问题反馈**：[官方QQ社区群](https://qm.qq.com/q/DGf5XI9jgW)（遇到问题请附上具体操作步骤并截图）
 
 ---
 

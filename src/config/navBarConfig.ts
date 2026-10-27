@@ -22,6 +22,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	// 标签
 	links.push(LinkPresets.Tags);
 
+	// 动态
+	links.push(LinkPresets.Dynamic);
+
+	// 项目
+	links.push(LinkPresets.Projects);
+
 	// 关于（本站为 LG Video 官方站点，非个人博客，故不用默认「关于我」）
 	links.push({
 		name: "关于 LG Video",

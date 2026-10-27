@@ -1,6 +1,6 @@
 ---
 title: "版本更新日志"
-published: 2026-10-17
+published: 2026-10-25
 category: "LGVideo"
 tags:
   - B

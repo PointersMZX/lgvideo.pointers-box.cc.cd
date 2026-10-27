@@ -1,12 +1,12 @@
 ---
-title: "发布 LG Video v1.1.0"
-published: 2026-10-17
+title: "发布 LGVideo_v1.1.0"
+published: 2026-10-25
 category: "LGVideo_v1.1.0"
 tags:
   - A
 pinned: true
 comment: false
-description: "甘露影视（LG Video）v1.1.0 正式发布：应用全面换新品牌，开源与更新渠道同步切换。"
+description: "LG Video v1.1.0 正式发布"
 draft: false
 ---
 
@@ -19,7 +19,16 @@ draft: false
 - 纯白主题下侧栏导航文字对比度修复，侧栏文字清晰可读
 - 已有设置、影视库与播放进度不受影响，升级后照常使用
 
-## 下载
+## 本版下载
+
+官网直装（点击即可下载）：
+
+- Windows 常规版安装程序（Win10 / Win11）：[LGVideo_Setup_v1.1.0 x64.exe](https://api.pointers-box.cc.cd/Download/LGVideo/LGVideo_Setup_v1.1.0%20x64.exe)
+- Windows 7 兼容版安装程序：[LGVideo_Setup_v1.1.0_Windows7 x64.exe](https://api.pointers-box.cc.cd/Download/LGVideo/LGVideo_Setup_v1.1.0_Windows7%20x64.exe)
+- Windows 常规版便携版（免安装，解压即用）：[LGVideo_v1.1.0_x64_Portable.7z](https://api.pointers-box.cc.cd/Download/LGVideo/LGVideo_v1.1.0_x64_Portable.7z)
+- Windows 7 便携版（免安装，解压即用）：[LGVideo_v1.1.0_win7_Portable.7z](https://api.pointers-box.cc.cd/Download/LGVideo/LGVideo_v1.1.0_win7_Portable.7z)
+
+其他渠道：
 
 - GitHub：<https://github.com/PointersMZX/LGVideo/releases>
 - Gitee：<https://gitee.com/PointersMZX/LGVideo/releases>

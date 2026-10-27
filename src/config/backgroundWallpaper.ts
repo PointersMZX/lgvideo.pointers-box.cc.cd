@@ -78,8 +78,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"独立开发者极星Pointers的影视播放器官方网站",
-				"甘露影视（LG Video）官方网站",
+				"Pointers开发的影视软件",
+				"LG Video官方网站",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -116,7 +116,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 壁纸轮播配置，横幅壁纸和全屏壁纸共享，仅在配置多张图片时生效
 		carousel: {
 			// 是否启用壁纸轮播；关闭时保持每次刷新随机显示一张
-			enable: false,
+			enable: true,
 			// 轮播切换间隔（毫秒）
 			interval: 5000,
 			// 过渡效果: 'fade' 渐变 | 'zoom' 缩放 | 'slide' 滑动 | 'kenburns' 旋转木马

@@ -78,12 +78,12 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件专属配置（广告内容直接在此配置）
 			specificConfig: {
 				ad: {
-					title: "公告",
+					title: "LG Video公告",
 					content:
-						"应用由作者亲自测试，无任何风险且完全免费，请放心使用，祝大家观影愉快。",
+						"请及时更新最新版本",
 					link: {
-						text: "GitHub 发布页",
-						url: "https://github.com/PointersMZX/LGVideo/releases",
+						text: "官方QQ社区群",
+						url: "https://qm.qq.com/q/DGf5XI9jgW",
 						external: true,
 					},
 					// 是否允许关闭广告
