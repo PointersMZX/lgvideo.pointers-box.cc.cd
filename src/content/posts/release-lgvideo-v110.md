@@ -31,8 +31,6 @@ draft: false
 其他渠道：
 
 - GitHub：<https://github.com/PointersMZX/LGVideo/releases>
-- Gitee：<https://gitee.com/PointersMZX/LGVideo/releases>
-- 蓝奏云：<https://pointers.lanzoum.com/b01d79hisf>
 
 ## 提醒
 
