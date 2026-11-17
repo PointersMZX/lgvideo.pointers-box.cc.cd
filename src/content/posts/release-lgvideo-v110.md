@@ -21,15 +21,6 @@ draft: false
 
 ## 本版下载
 
-官网直装（点击即可下载）：
-
-- Windows 常规版安装程序（Win10 / Win11）：[LGVideo_Setup_v1.1.0 x64.exe](https://api.pointers-box.cc.cd/Download/LGVideo/LGVideo_Setup_v1.1.0%20x64.exe)
-- Windows 7 兼容版安装程序：[LGVideo_Setup_v1.1.0_Windows7 x64.exe](https://api.pointers-box.cc.cd/Download/LGVideo/LGVideo_Setup_v1.1.0_Windows7%20x64.exe)
-- Windows 常规版便携版（免安装，解压即用）：[LGVideo_v1.1.0_x64_Portable.7z](https://api.pointers-box.cc.cd/Download/LGVideo/LGVideo_v1.1.0_x64_Portable.7z)
-- Windows 7 便携版（免安装，解压即用）：[LGVideo_v1.1.0_win7_Portable.7z](https://api.pointers-box.cc.cd/Download/LGVideo/LGVideo_v1.1.0_win7_Portable.7z)
-
-其他渠道：
-
 - GitHub：<https://github.com/PointersMZX/LGVideo/releases>
 
 ## 提醒
