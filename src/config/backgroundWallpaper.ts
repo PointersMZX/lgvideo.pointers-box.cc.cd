@@ -79,7 +79,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅副标题
 			subtitle: [
 				"极星Pointers开发的影视软件",
-				"LG Video官方网站",
+				"甘露影视官方网站",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",

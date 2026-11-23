@@ -1,5 +1,5 @@
 ---
-title: "甘露影视（LG Video）"
+title: "甘露影视"
 slug: lgvideo
 published: 2026-10-17
 order: 100
@@ -14,4 +14,4 @@ link:
     value: "https://github.com/PointersMZX/LGVideo"
 ---
 
-甘露影视（LG Video）是由极星（Pointers）自主开发的影视播放器，液态玻璃视觉与紫金黑主题，提供 Windows 端（含 Win7 兼容版）。
+甘露影视是由极星（Pointers）自主开发的影视播放器，液态玻璃视觉与紫金黑主题，提供 Windows 端（含 Win7 兼容版）。

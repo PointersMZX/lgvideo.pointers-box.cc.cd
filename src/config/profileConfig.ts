@@ -8,7 +8,7 @@ export const profileConfig: ProfileConfig = {
 	name: "甘露影视",
 
 	// 个人签名
-	bio: "我是甘露影视（LG Video），由极星（Pointers）开发。",
+	bio: "我是甘露影视，由极星（Pointers）开发。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
