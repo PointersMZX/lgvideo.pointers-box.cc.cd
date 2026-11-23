@@ -5,10 +5,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "/assets/images/avatar/lgvideo.png",
 
 	// 名字
-	name: "LG Video",
+	name: "甘露影视",
 
 	// 个人签名
-	bio: "我是LG Video，由极星（Pointers）开发。",
+	bio: "我是甘露影视（LG Video），由极星（Pointers）开发。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons

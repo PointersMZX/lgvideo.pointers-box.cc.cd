@@ -30,7 +30,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 关于（本站为 LG Video 官方站点，非个人博客，故不用默认「关于我」）
 	links.push({
-		name: "关于 LG Video",
+		name: "关于LG Video",
 		url: "/about/",
 		icon: "material-symbols:person",
 	});

@@ -73,12 +73,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "LG Video",
+			title: "甘露影视",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"Pointers开发的影视软件",
+				"极星Pointers开发的影视软件",
 				"LG Video官方网站",
 			],
 			// 主页横幅副标题字体大小

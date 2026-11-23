@@ -78,7 +78,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件专属配置（广告内容直接在此配置）
 			specificConfig: {
 				ad: {
-					title: "LG Video公告",
+					title: "甘露影视公告",
 					content:
 						"请及时更新最新版本",
 					link: {
