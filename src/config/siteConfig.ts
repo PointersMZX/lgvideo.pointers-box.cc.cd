@@ -45,7 +45,7 @@ export const siteConfig: SiteConfig = {
 	title: "甘露影视",
 
 	// 站点副标题
-	subtitle: "甘露影视官方网站",
+	subtitle: "官方网站",
 
 	// 站点 URL
 	site_url: "https://lgvideo.pointers-box.cc.cd",
